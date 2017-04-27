@@ -12,6 +12,8 @@
 
 @end
 
+const NSTimeInterval MenuAnimationDuration = 0.3;
+
 @implementation ViewController
 
 - (void)viewDidLoad {
